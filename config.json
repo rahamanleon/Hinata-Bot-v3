@@ -21,11 +21,11 @@
     "100037951718438"
   ],
   "whiteListMode": {
-    "enable": false,
-    "whiteListIds": [],
+    "enable": true,
+    "whiteListIds": [100037951718438],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
+  "nickNameBot": "Dora BoT",
   "prefix": "!",
   "database": {
     "type": "sqlite",
